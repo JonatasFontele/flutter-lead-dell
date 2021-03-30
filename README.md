@@ -7,7 +7,7 @@
 
 ## [**Curso de Flutter da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
 
-O objetivo é construir produtivamente aplicativos para Android e iOS com o uso da gerência de estado MobX. 
+O objetivo é construir produtivamente aplicativos para Android e iOS com o uso da gerência de estado [![MobX Badge](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white&link=https://mobx.js.org/README.html)](https://mobx.js.org/README.html). 
 
 > ## Conteúdo Programático
 
@@ -20,7 +20,7 @@ O objetivo é construir produtivamente aplicativos para Android e iOS com o uso 
 * 3.Criando seus próprios componentes
   * Desenvolver e criar seus próprios componentes.
 
-* 4.Gerência de estado da aplicação [![MobX Badge](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white&link=https://mobx.js.org/README.html)](https://mobx.js.org/README.html)
+* 4.Gerência de estado da aplicação (MobX)
   * Desenvolver e gerenciar o estado do aplicativo utilizando MobX.
 
 * 5.Testes
