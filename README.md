@@ -7,7 +7,7 @@
 
 ## [**Curso de Flutter da LEAD ![Dell Badge](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=Dell&logoColor=white)**](http://leadfortaleza.com.br/dal/?cp_cursos=/machine-learning/)
 
-O objetivo é construir produtivamente aplicativos para [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/studio)](https://developer.android.com/studio) e [![iOS Badge](https://img.shields.io/badge/000000?style=flat-square&logo=iOS&logoColor=white&link=https://developer.android.com/studio)](https://developer.android.com/studio) com o uso da gerência de estado [![MobX Badge](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white&link=https://mobx.js.org/README.html)](https://mobx.js.org/README.html). 
+O objetivo é construir produtivamente aplicativos para [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/studio)](https://developer.android.com/studio) e [![iOS Badge](https://img.shields.io/badge/-000000?style=flat-square&logo=iOS&logoColor=white&link=https://developer.android.com/studio)](https://developer.android.com/studio) com o uso da gerência de estado [![MobX Badge](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white&link=https://mobx.js.org/README.html)](https://mobx.js.org/README.html). 
 
 > ## Conteúdo Programático
 
