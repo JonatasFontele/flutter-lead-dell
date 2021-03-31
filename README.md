@@ -29,15 +29,32 @@ O objetivo é construir produtivamente aplicativos para [![Android Badge](https:
       * Operador safe.
       * Operador spread.
     * Orientação a Objetos aplicada em Dart.
+      * Classes.
+      * Objetos.
+      * Herança.
+      * Mixins.
 
 * 2.Básico do framework Flutter
   * Estabelecer primeiro contato com as características do framework.
+    * Conceito de Flutter e criação de um projeto.
+    * Interagindo com sua primeira tela.
+    * Conhecendo alguns componentes importantes do Flutter.
+    * Stateless x Stateful widgets.
+    * Modificando o estado do componente.
 
 * 3.Criando seus próprios componentes
   * Desenvolver e criar seus próprios componentes.
+    * Paradigma de composição.
+    * Como criar seus próprios widgets.
+    * Como utilizar orientação a objetos na criação de widgets.
 
 * 4.Gerência de estado da aplicação (MobX)
   * Desenvolver e gerenciar o estado do aplicativo utilizando MobX.
+    * Principais Conceitos do MOBX.
+    * Configurando o MobX.
+    * Exemplos Básicos de utilização do MobX.
+    * Exemplos Avançados de utilização do MobX.
 
 * 5.Testes
   * Reconhecer como funcionam testes de widgets em Flutter e sua importância.
+    * Testes de widgets
