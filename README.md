@@ -31,6 +31,9 @@ O objetivo é construir produtivamente aplicativos para [![Android Badge](https:
     * Orientação a Objetos aplicada em Dart.
       * Classes.
       * Objetos.
+      * Parâmetros nomeados.
+      * Construtores nomeados.
+      * Métodos de classes.
       * Herança.
       * Mixins.
 
@@ -57,4 +60,4 @@ O objetivo é construir produtivamente aplicativos para [![Android Badge](https:
 
 * 5.Testes
   * Reconhecer como funcionam testes de widgets em Flutter e sua importância.
-    * Testes de widgets
+    * Testes de widgets.
