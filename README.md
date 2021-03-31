@@ -9,10 +9,26 @@
 
 O objetivo é construir produtivamente aplicativos para [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&link=https://developer.android.com/studio)](https://developer.android.com/studio) e [![iOS Badge](https://img.shields.io/badge/-000000?style=flat-square&logo=iOS&logoColor=white&link=https://developer.apple.com/ios/)](https://developer.apple.com/ios/) com o uso da gerência de estado [![MobX Badge](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white&link=https://mobx.js.org/README.html)](https://mobx.js.org/README.html). 
 
+> ## Programinhas
+
+* simple_calc_test.dart
+  * Demonstrar os conceitos de orientação a objetos aplicados na linguagem Dart, como criação de classes, objetos, construtores e parâmetros nomeados, através de uma classe que será responsável por efetuar operações matemáticas solicitadas pelo usuário (algo como uma calculadora).  
+
 > ## Conteúdo Programático
 
 * 1.Básico da linguagem [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white&link=https://dart.dev/)](https://dart.dev/)
   * Descobrir as principais características e possibilidades da linguagem de programação Dart.
+    * O que é Dart e seus comandos básicos.
+      * int, double, String, List, Map.
+      * var.
+      * soma, subtração, multiplicação, divisão, resto da divisão, maior que, menor que, igual, diferente.
+    * Características e comandos avançados em Dart.
+      * Generics.
+      * Interpolação.
+      * Operador ternário.
+      * Operador safe.
+      * Operador spread.
+    * Orientação a Objetos aplicada em Dart.
 
 * 2.Básico do framework Flutter
   * Estabelecer primeiro contato com as características do framework.
